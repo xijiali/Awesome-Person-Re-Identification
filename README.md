@@ -5,7 +5,7 @@ Awesome-Person-Re-Identification
 ### Image-based
 #### 2020 Conferences
 ##### ACMMM
-Performance Optimization for Federated Person Re-identification via Benchmark Analysis (ACMMM2020)\[paper\](https://arxiv.org/pdf/2008.11560)<br>
+Performance Optimization for Federated Person Re-identification via Benchmark Analysis (ACMMM2020)[[paper](https://arxiv.org/pdf/2008.11560)]<br>
 Vision Meets Wireless Positioning: Effective Person Re-identification with Recurrent Context Propagation (ACMMM2020)[paper](https://arxiv.org/pdf/2008.04146.pdf)<br>
 Hierarchical Bi-Directional Feature Perception Network for Person Re-Identification (ACMMM2020)[paper](https://arxiv.org/pdf/2008.03509.pdf)<br>
 Dual Gaussian-based Variational Subspace Disentanglement for Visible-Infrared Person Re-Identification (ACMMM2020)[paper](https://arxiv.org/pdf/2008.02520.pdf)<br>
