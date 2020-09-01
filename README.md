@@ -17,8 +17,8 @@ Faster Person Re-Identification (ECCV2020) [[paper](https://arxiv.org/pdf/2008.0
 Identity-Guided Human Semantic Parsing for Person Re-Identification (ECCV2020) [[paper](https://arxiv.org/pdf/2007.13467.pdf)]<br>
 Robust Re-Identification by Multiple Views Knowledge Distillation (ECCV2020) [[paper](https://arxiv.org/pdf/2007.04174.pdf)]<br>
 
-#### IJCAL
-Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification (IJCAL2020) [[paper](https://arxiv.org/pdf/2008.09435)]<br>
+#### IJCAI
+Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification (IJCAI2020) [[paper](https://arxiv.org/pdf/2008.09435)]<br>
 
 ##### CVPR
 Camera On-boarding for Person Re-identification using Hypothesis Transfer Learning (CVPR2020) [[paper](https://arxiv.org/pdf/2007.11149.pdf)]<br>
