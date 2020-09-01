@@ -3,9 +3,60 @@ Awesome-Person-Re-Identification
 # Papers
 ## Supervised Methods
 ### Image-based
-#### 2020
+#### 2020 Conferences
+##### ACMMM
+Performance Optimization for Federated Person Re-identification via Benchmark Analysis (ACMMM2020)[https://arxiv.org/pdf/2008.11560]
+Vision Meets Wireless Positioning: Effective Person Re-identification with Recurrent Context Propagation (ACMMM2020)[https://arxiv.org/pdf/2008.04146.pdf]
+Hierarchical Bi-Directional Feature Perception Network for Person Re-Identification (ACMMM2020)[https://arxiv.org/pdf/2008.03509.pdf]
+Dual Gaussian-based Variational Subspace Disentanglement for Visible-Infrared Person Re-Identification (ACMMM2020)[https://arxiv.org/pdf/2008.02520.pdf]
+
+##### ECCV
+Learning to Learn in a Semi-Supervised Fashion (ECCV2020)[https://arxiv.org/pdf/2008.11203]
+Do Not Disturb Me: Person Re-identification Under the Interference of Other Pedestrians (ECCV2020) [https://arxiv.org/pdf/2008.07884.pdf]
+Faster Person Re-Identification (ECCV2020)[https://arxiv.org/pdf/2008.06826]
+Identity-Guided Human Semantic Parsing for Person Re-Identification (ECCV2020)[https://arxiv.org/pdf/2007.13467.pdf]
+Robust Re-Identification by Multiple Views Knowledge Distillation (ECCV2020)[https://arxiv.org/pdf/2007.04174.pdf]
+
+#### IJCAL
+Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification (IJCAL2020)[https://arxiv.org/pdf/2008.09435]
+
+##### CVPR
+Camera On-boarding for Person Re-identification using Hypothesis Transfer Learning (CVPR2020)[https://arxiv.org/pdf/2007.11149.pdf]
+
+#### 2020 Journals
+#### TIP
+Receptive Multi-granularity Representation for Person Re-Identification (TIP2020)[https://arxiv.org/pdf/2008.13450.pdf]
+
+#### TPAMI
+
 
 ### Video-based
+#### 2020 Conferences
+##### ECCV
+Temporal Complementary Learning for Video Person Re-Identification (ECCV2020)[https://arxiv.org/pdf/2007.09357.pdf]
+Dynamic Dual-Attentive Aggregation Learning for Visible-Infrared Person Re-Identification (ECCV2020)[https://arxiv.org/pdf/2007.09314.pdf]
+Appearance-Preserving 3D Convolution for Video-based Person Re-identification (ECCV2020)[https://arxiv.org/pdf/2007.08434.pdf]
+#### 2020 Journals
+
 ## Domain Adaptive Methods
+
+### Image-based
+
+#### 2020 Conferences
+
+##### ECCV
+Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification (ECCV2020)[https://arxiv.org/pdf/2007.10315]
+Multiple Expert Brainstorming for Domain Adaptive Person Re-identification (ECCV2020)[https://arxiv.org/pdf/2007.01546.pdf]
+
+### Video-based
+#### 2020 Conferences
+##### ECCV
+CycAs: Self-supervised Cycle Association for Learning Re-identifiable Descriptions (ECCV2020)[https://arxiv.org/pdf/2007.07577.pdf]
 ## Unsupervised Methods
 
+
+## Cross Modality
+### Image-based
+#### 2020 Conferences
+##### IJCAL
+A Similarity Inference Metric for RGB-Infrared Cross-Modality Person Re-identification (IJCAI2020)[https://arxiv.org/pdf/2007.01504.pdf]
