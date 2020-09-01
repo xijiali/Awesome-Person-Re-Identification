@@ -58,5 +58,5 @@ CycAs: Self-supervised Cycle Association for Learning Re-identifiable Descriptio
 ## Cross Modality
 ### Image-based
 #### 2020 Conferences
-##### IJCAL
+##### IJCAI
 A Similarity Inference Metric for RGB-Infrared Cross-Modality Person Re-identification (IJCAI2020) [[paper](https://arxiv.org/pdf/2007.01504.pdf)]<br>
