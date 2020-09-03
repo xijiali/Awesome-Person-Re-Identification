@@ -145,7 +145,7 @@ Person Re-identification by Contour Sketch under Moderate Clothing Change (TPAMI
 ### Image-based
 #### 2020 Conferences
 ##### CVPR
-Robust Partial Matching for Person Search in the Wild (CVPR2020) [[paper](Robust Partial Matching for Person Search in the Wild)]<br>
+Robust Partial Matching for Person Search in the Wild (CVPR2020) [[paper](https://arxiv.org/abs/2004.09329)]<br>
 
 ## Occluded Re-ID
 ### Image-based
